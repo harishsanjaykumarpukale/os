@@ -1,0 +1,25 @@
+student@student-Veriton-M200-H310:~$ ./a.out 
+
+ Enter the name of secondary memory device:UBUNTU19_0
+d rwxr-xr-x  18  student  student 4096 Nov 06 16:31  .
+d rwxr-xr-x  19     root     root 4096 Oct 01 15:40  ..
+d rwxr-xr-x  19     root     root 4096 Oct 01 15:40  System Volume Information
+- rwxr-xr-x  19     root     root 4096 Oct 01 15:40  ldlinux.sys
+d rwxr-xr-x  19     root     root 4096 Oct 01 15:40  .disk
+d rwxr-xr-x  19     root     root 4096 Oct 01 15:40  boot
+d rwxr-xr-x  19     root     root 4096 Oct 01 15:40  casper
+d rwxr-xr-x  19     root     root 4096 Oct 01 15:40  dists
+d rwxr-xr-x  19     root     root 4096 Oct 01 15:40  EFI
+d rwxr-xr-x  19     root     root 4096 Oct 01 15:40  install
+d rwxr-xr-x  19     root     root 4096 Oct 01 15:40  isolinux
+- rwxr-xr-x  19     root     root 4096 Oct 01 15:40  md5sum.txt
+d rwxr-xr-x  19     root     root 4096 Oct 01 15:40  pics
+d rwxr-xr-x  19     root     root 4096 Oct 01 15:40  pool
+d rwxr-xr-x  19     root     root 4096 Oct 01 15:40  preseed
+- rwxr-xr-x  19     root     root 4096 Oct 01 15:40  README.diskdefines
+- rwxr-xr-x  19     root     root 4096 Oct 01 15:40  ubuntu
+- rwxr-xr-x  19     root     root 4096 Oct 01 15:40  syslinux.cfg
+d rwxr-xr-x  19     root     root 4096 Oct 01 15:40  New folder
+student@student-Veriton-M200-H310:~$ 
+
+
